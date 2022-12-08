@@ -1,14 +1,14 @@
 Package: linux-dtb-legacy-rockchip64
 Source: linux-4.4.213-rockchip64-gfd4492386-dirty
-Version: 22.11.1-build-21
+Version: 22.11.1-build-22
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 11070
 Filename: ./linux-dtb-legacy-rockchip64_22.11.1_arm64.deb
-Size: 410416
-MD5sum: 9a27092a5ee33637cdff0020537fe3f9
-SHA1: efcef8739f51b678167969b96a5655a7d45b6c9f
-SHA256: a9bd95eeda3d5fc283cc4aa167071d1d83b308b1a77cf583cc006451c3ce0ecc
+Size: 410748
+MD5sum: 9398716dd7b43cc25970407393f62021
+SHA1: b770175d638ea1209d2e995cda52f120ac3e25b9
+SHA256: 9fdebbbba02a04ded5f2b5169e7759cdb39f79238440684305d80e1dfdbcab5c
 Section: kernel
 Priority: optional
 Homepage: http://www.kernel.org/
@@ -17,17 +17,17 @@ Description: Linux DTB, version 4.4.213-rockchip64-gfd4492386-dirty
 
 Package: linux-image-legacy-rockchip64
 Source: linux-4.4.213-rockchip64-gfd4492386-dirty
-Version: 22.11.1-build-21
+Version: 22.11.1-build-22
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 76132
 Suggests: linux-firmware-image-legacy-rockchip64
 Provides: linux-image, linux-image-2.6, linux-modules-4.4.213-rockchip64-gfd4492386-dirty
 Filename: ./linux-image-legacy-rockchip64_22.11.1_arm64.deb
-Size: 14281076
-MD5sum: 1fd4e82010cd7338990eba2bd1eceacf
-SHA1: 58e4f3ffe2830fabd1f7535546bfc02e1eb6e245
-SHA256: 9808fc2cb70c3bb9413c683d261081d178098e4a924d7302d83cf45b159fd0af
+Size: 14288480
+MD5sum: 033fd0e02044afb2fd982eed7af9c5c7
+SHA1: 3b806cb445fbf9975893876105c131f0fc4f7cec
+SHA256: d9d597b850a733f496fc5812aa9fa253835de365c4632b0c492418fd825ff5cb
 Section: kernel
 Priority: optional
 Homepage: http://www.kernel.org/
@@ -36,7 +36,7 @@ Description: Linux kernel, version 4.4.213-rockchip64-gfd4492386-dirty
  files, version: 4.4.213-rockchip64-gfd4492386-dirty.
 
 Package: linux-u-boot-helm-v2a-legacy
-Version: 22.11.1-build-21
+Version: 22.11.1-build-22
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 1
@@ -44,16 +44,16 @@ Conflicts: armbian-u-boot, u-boot-sunxi
 Replaces: armbian-u-boot
 Provides: armbian-u-boot
 Filename: ./linux-u-boot-legacy-helm-v2a_22.11.1_arm64.deb
-Size: 899532
-MD5sum: 2f7a11d6ba9b365be634fcc513f88a48
-SHA1: 83fc517ec14fb7c8ba040fc8f1e5437d7a469fca
-SHA256: 90e5c2f88a0dc0bf63284ca6508c4814f51cb877f11c49aa81ef0393233d8536
+Size: 899364
+MD5sum: 63079c89f5f38c59e0c39f7e85e5c14a
+SHA1: 8e453c7058ddfc431aef18e658315357f719c238
+SHA256: 2cd923fa443daee7687ae8e56d27a3fc6ae74fa1e63400f44cadc21f09df7b16
 Section: kernel
 Priority: optional
 Description: Uboot loader 2022.07
 
 Package: linux-u-boot-helm-v2b-legacy
-Version: 22.11.1-build-21
+Version: 22.11.1-build-22
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 1
@@ -61,11 +61,11 @@ Conflicts: armbian-u-boot, u-boot-sunxi
 Replaces: armbian-u-boot
 Provides: armbian-u-boot
 Filename: ./linux-u-boot-legacy-helm-v2b_22.11.1_arm64.deb
-Size: 896064
-MD5sum: ddb5d72d07fccc0531bed13b13a441fb
-SHA1: 45d09f9db104868435fb9e8cfd8b2dcefdb5dcbb
-SHA256: 04bba87405e2d1517ca3345f18676d6333a6b736be12f11f42e6a1b4be0f847f
+Size: 885340
+MD5sum: 1f8d8d2990a1070db2cac82a54262bb3
+SHA1: 2cf71a56d2f2d1fd08e4538b572ad478c436f066
+SHA256: 16d20dbd8994581d8ed5da828b8587e12a8e0df4d02b958149fa1e2908290122
 Section: kernel
 Priority: optional
-Description: Uboot loader 2022.07
+Description: Uboot loader 2017.09
 
