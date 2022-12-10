@@ -1,49 +1,43 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Sat, 10 Dec 2022 00:46:36 +0000
+Date: Sat, 10 Dec 2022 01:06:43 +0000
 MD5Sum:
- 048da68b351d081f79f8b6b174415106             2625 Packages
- fa1e73b2ab2f1be934e45e4d2a9a852d              940 Packages.gz
- 469e871b5092ea9831ae5975eff9cfc8               38 Release
+ fbe4a4b730677c44ba696aff42deae33             2625 Packages
+ 87abd6d0dc9d5d155fdb8c0da4d49a57              941 Packages.gz
+ 30c88b1a3f16a4dffec4d50e6f88ad45               38 Release
 SHA1:
- 69cf8153c24fa8cf3a225c97b9f871303233dcc5             2625 Packages
- 18a74c7b856d5ba65ed0eb3e5e56e1b7365348ce              940 Packages.gz
- ce8d116b90f2a0e42faea5e8db35beeff4949b21               38 Release
+ fa0e5b0e88ab2d7d4332f42d259cf03c5195a52a             2625 Packages
+ d9621d11c465dc8e8427bdb69aa4c3e3811cd9ce              941 Packages.gz
+ 58f5523cd7292ff9f4f904cd1490308402d0f559               38 Release
 SHA256:
- c38349a96f38ec3fc241137920f91a27dcee38b830e7514dda8cefed867a1bb9             2625 Packages
- baed38ba395afff6338f9ce436e0de3f11a033c44a613515a17560b8405e8647              940 Packages.gz
- 9ec9af092dd243e5030853fdc4569ddc71ab2967ff3a3085bf47d9d34f785a9c               38 Release
+ 903b56a8d697ce6a2e8e3346f2f1cfa8051b369547f196bb651f53eac0e8592d             2625 Packages
+ fafdbc342a47f066d32bed1982cf2585b6d53080db5b4f1ab19ea52cd0bba084              941 Packages.gz
+ d7688234a6d7f8f8eec872f174a32557a25d655e5ee4630f6939340df32c53d8               38 Release
 SHA512:
- 6dcc8b4c99a3d77468f226858437e90cc6581986c55fc712891bcc907fadb0ef574580ad0e01c0e4d17554d1813c54cc2428cf48909a6a467d8713b9d910e52f             2625 Packages
- a8448c7625544792e69ed9997f75402d5614b82a7a0b66e5570dd261e64ea239d9672baeb427eb112071ebef446ae8947cab9ebe666b6b04a1cdb1f9018e4423              940 Packages.gz
- 8d326ad7d829a079633b7d9f0de9a86516ec3bca20b144e28c134e865751077272ef4bae4d3350a9fc96e2449060ea996857133eaacaf0d7abef505450b7d92e               38 Release
+ 4b7a62a6acc4f791993575adcbd1bdb7f306067d340b8ce312718a9a10876124afd5e0ad4248423068c3d5a33643b6ff6587dc5eeaf7dc2e1d6222997e6cfb79             2625 Packages
+ 715fde8b3b1b3a6d94badba45ff0d6192136c7f68fccc1798caaaff5e228453c76390bc7bd4f6f185c7407e5e547ade4fb2a323891bb25eb057c33c684bed4ba              941 Packages.gz
+ 97de4049a149628f61ebe0538db8fb9cb3de51428c4e1a438598d59d9a8e90ee5904b57996fc37bb5d9df110bd98cbf67cd35805319f4880f48da8f7ef48b9d4               38 Release
 Origin: Helm
-
 Label: Armbian
-
 Suite: bullseye
-
 Codename: bullseye
-
 Architectures: arm64
-
 Components: main
-
 -----BEGIN PGP SIGNATURE-----
 
-iQJIBAEBCgAyFiEEj1i6LG5uQBdLdzkCq91wCi/dQlkFAmOT1u0UHGRpcmtAcHJp
-dmFjeWxhYnMuaW8ACgkQq91wCi/dQlnMlA//enJ1csJTG4HDPm4ftc1vFs4zwnz/
-ICT97hFJiSBFijipv98e9OYL7e/NCpMmXPEQ1KK1webdPURI4oxXSqw6U1kX6pjT
-gJbg0OJDTagmBJ8Huznd2TrgRZV8TzhQKhe3S24xEtxLW7eNygFbNokO2sI+hmua
-H00hE1CeGpxRUB9h1/gwzVXls+ChtaoIUOe3pbcCe6nHbcLjuuHqOcg6ylezbXOc
-nGVfJ3YNQiUYATLY+QMl8FcWuBo/Cbn5nLvlD9CtfXAbLl9Nh8efNTGJke+9c7KH
-nb/AH+vz1p54n5yD8NXUeUHG9G0sIVD7AuZXEURnLYk20pfKSp2+y9V3C3yGauhr
-ORQngrIDQ0byuysQwHMGIus/neufhLYd52PG/Tvp9tGFVfOTnsbuIfBfJmOcHKpg
-optoC+Yzig28yNG3Pmnz1ya+x3BjxM+UZ0dYEvfhRyxaI6uEj6eyOaZ8A5OrJgis
-GuwKPLL4Wm8POrzdQmw4+LyNHMt9Z6mPNLYoy8POI6QTOnJYVfa4eVykUe/+u2Q+
-HGdLoQmTuxNf9uWMR4yeVIn3jNjGsxw1gjKAi5Tp2ibcr/ihlz2E0Sjw+koK29my
-/Sb8cLN33nxVE2OUlaPUMll76Y2mrhmg+7F2aVkWhfQ0YY31HjyT9Z+sPToGfiQz
-u7l2D04CcA78pPI=
-=bDsz
+iQJIBAEBCgAyFiEEj1i6LG5uQBdLdzkCq91wCi/dQlkFAmOT26QUHGRpcmtAcHJp
+dmFjeWxhYnMuaW8ACgkQq91wCi/dQllMjRAAq2ybQCdXpwehDFRc4VZChBR9szO4
+MoRJHlnQ2H74S92CMMk5GhoYcEayt8VdBa/c/olq13bwXzUDIIn/vWrxs4rfL9D0
+oJwFQIrjlZlr0HnuOmnvTnvgpDbQZpvnJb2T5Xy47jIKFIad4utRJ+XDUso9sSd5
+fjAe4Ynvta0h98uzvuXNCaNGAmSVzsXickGmoC1ffI7D9N6aIa8HE3S/3Rq9Azrr
+OTFA6zgeVnMsap5YdCzTTYmDZEHgqK4wBUljfZovFAXWmyk3aW635dJcw7wEaey+
+QDuSjaJoUoVjfcQpJBk20hb2/wBNCB+5sReAvZN5PjaviBooKbnoU2rqnf5QX2Gz
+moYg8USnPdZIEhdytusvJ2lXtYVioZEei2J769tbqLOEkhhul2iHdVcjKye1XAjP
+2I4JKdhnlNJBZH6GfzME7NQ+O1lcsNGN5U7CZKzgYw01Dd4Tnp8WUKL4mYgZH7Hw
+PN+spILkSDleTxN7k6D67Q6gNHylPQI8RgnsV1i7aUarEiCk52Pkxz/YvgM9Jz30
+Xjzyc9zAsZCnQ2lhp3OxnENJf3amuV739vF2Cvyr/Fj2DRJdvV4BoD6gBL+AYeRR
+Gjw5ruA981r/WLMDL5cyhz2xbktXzUjMMMaMaFzXNQ3QNToCSr92KjEPkjCB4EB2
+2vE9BkTzPALwLh8=
+=tW6H
 -----END PGP SIGNATURE-----
