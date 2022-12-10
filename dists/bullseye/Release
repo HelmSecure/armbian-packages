@@ -1,17 +1,29 @@
-Date: Fri, 09 Dec 2022 22:25:31 +0000
+Date: Sat, 10 Dec 2022 00:46:36 +0000
 MD5Sum:
- b262f58de26da6b219f9c1e5059288a0             2625 Packages
- 2079e7ea22810a4b2f0a9a2765d80ff9              943 Packages.gz
- 398e647e6871d0f66b04811a1969168c               38 Release
+ 048da68b351d081f79f8b6b174415106             2625 Packages
+ fa1e73b2ab2f1be934e45e4d2a9a852d              940 Packages.gz
+ 469e871b5092ea9831ae5975eff9cfc8               38 Release
 SHA1:
- e488c9e2cab2a3bdf1057a3252a1ca989603dcf3             2625 Packages
- efcf7a5c757b94b72d8037b8dc6d7901a9b0eef7              943 Packages.gz
- 512f9c7aacdff1145b94fa44f26375f40bc9a6af               38 Release
+ 69cf8153c24fa8cf3a225c97b9f871303233dcc5             2625 Packages
+ 18a74c7b856d5ba65ed0eb3e5e56e1b7365348ce              940 Packages.gz
+ ce8d116b90f2a0e42faea5e8db35beeff4949b21               38 Release
 SHA256:
- fc65f37532d5d8db2aea0ce1d13b385814bf9f42a25dbe0e8b340a7f6b0ad369             2625 Packages
- 40236d2297d8cd7bccc07de02eca21c592666eb76a0e8789ba98d000d38ce24b              943 Packages.gz
- 0615cffc61f886d187bfaf57c269dd653d88cb329cc074792183bef71b130349               38 Release
+ c38349a96f38ec3fc241137920f91a27dcee38b830e7514dda8cefed867a1bb9             2625 Packages
+ baed38ba395afff6338f9ce436e0de3f11a033c44a613515a17560b8405e8647              940 Packages.gz
+ 9ec9af092dd243e5030853fdc4569ddc71ab2967ff3a3085bf47d9d34f785a9c               38 Release
 SHA512:
- a7df5faac939759fab656455ee92fd6080230387161692e6d321c60ac88ab49f64cf6eda85da281f0b703f8567deec6424ceb08f71f8c07d6ba54a39d5892a8b             2625 Packages
- 4fafcdb6a1b12607cac0cd34d627a58da3a38372c11fdeb43ddc5cf8dfbb663db7996911b5d4878a7424205e2705dd5a98450ff2e5af844ce724a5341e110b5f              943 Packages.gz
- 1ce9b5927667230f01a0de450718fbb2f0e54825b3465716b0a56db23a05825ecc1c79ecc8a0c93fe47f9fb268e1751a47a1d26168b41e2ef1d2013fd57886f2               38 Release
+ 6dcc8b4c99a3d77468f226858437e90cc6581986c55fc712891bcc907fadb0ef574580ad0e01c0e4d17554d1813c54cc2428cf48909a6a467d8713b9d910e52f             2625 Packages
+ a8448c7625544792e69ed9997f75402d5614b82a7a0b66e5570dd261e64ea239d9672baeb427eb112071ebef446ae8947cab9ebe666b6b04a1cdb1f9018e4423              940 Packages.gz
+ 8d326ad7d829a079633b7d9f0de9a86516ec3bca20b144e28c134e865751077272ef4bae4d3350a9fc96e2449060ea996857133eaacaf0d7abef505450b7d92e               38 Release
+Origin: Helm
+
+Label: Armbian
+
+Suite: bullseye
+
+Codename: bullseye
+
+Architectures: arm64
+
+Components: main
+
