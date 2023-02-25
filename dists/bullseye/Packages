@@ -1,14 +1,31 @@
 Package: linux-dtb-legacy-rockchip64
 Source: linux-4.4.213-rockchip64-gfd4492386-dirty
-Version: 22.11.1-build-38
+Version: 22.11.1-build-43
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 11070
 Filename: ./linux-dtb-legacy-rockchip64_22.11.1_arm64.deb
-Size: 410520
-MD5sum: cc0df6cdcb637bb08f6e2d5800bb12b5
-SHA1: e824ac8b1427e8caa642e6f3428619d26bf6ff55
-SHA256: 4870fcbc27a1b7970999f5b86d759942bb3a85c504d64a136307a09ea9fa7a36
+Size: 411660
+MD5sum: df3dffe0a116c3a7ca51e83b2e1f1826
+SHA1: 09fd3f54d1904047256e202b644672c78e684214
+SHA256: 0804fdde45c2af112ca4ad6d241d64532d067900ef5d417f9c03dffc6206a766
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux DTB, version 4.4.213-rockchip64-gfd4492386-dirty
+ This package contains device blobs from the Linux kernel, version 4.4.213-rockchip64-gfd4492386-dirty.
+
+Package: linux-dtb-legacy-rockchip64
+Source: linux-4.4.213-rockchip64-gfd4492386-dirty
+Version: 22.11.2-build-48
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 11070
+Filename: ./linux-dtb-legacy-rockchip64_22.11.2_arm64.deb
+Size: 410920
+MD5sum: 4285ebdb0b040778724fb9040ca76d98
+SHA1: 61a8babeac6a7ff531ac0d76e54dc82df1477b81
+SHA256: 26da243d2028f746ae8de19ae0190c83df6113c50e197e986416050589736d93
 Section: kernel
 Priority: optional
 Homepage: http://www.kernel.org/
@@ -17,17 +34,37 @@ Description: Linux DTB, version 4.4.213-rockchip64-gfd4492386-dirty
 
 Package: linux-image-legacy-rockchip64
 Source: linux-4.4.213-rockchip64-gfd4492386-dirty
-Version: 22.11.1-build-38
+Version: 22.11.1-build-43
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 76132
 Suggests: linux-firmware-image-legacy-rockchip64
 Provides: linux-image, linux-image-2.6, linux-modules-4.4.213-rockchip64-gfd4492386-dirty
 Filename: ./linux-image-legacy-rockchip64_22.11.1_arm64.deb
-Size: 14267224
-MD5sum: 65377539e16e122153cbf06ed50551a8
-SHA1: 584716efbc0c26663bffc5f237f9103d901a1116
-SHA256: 838c169ccadd517390a17f7c5e22eb2f3611ad7ea2570d6acf33701076ab9f96
+Size: 14289528
+MD5sum: 875920f2719a6c6e7b8d4ad82625d7f7
+SHA1: 5461ff94eb1a9aefd4727f875de3d37888e63b68
+SHA256: b6d9ea13b647b195493a43932981187a781da478916a3528389020cdac9b85d4
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.213-rockchip64-gfd4492386-dirty
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.213-rockchip64-gfd4492386-dirty.
+
+Package: linux-image-legacy-rockchip64
+Source: linux-4.4.213-rockchip64-gfd4492386-dirty
+Version: 22.11.2-build-48
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 76132
+Suggests: linux-firmware-image-legacy-rockchip64
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.213-rockchip64-gfd4492386-dirty
+Filename: ./linux-image-legacy-rockchip64_22.11.2_arm64.deb
+Size: 14282660
+MD5sum: f08e15356c2aa7b18fba516af7044554
+SHA1: 6340d8b7d9b35f3c239f86ed6fa31e4560d6fb09
+SHA256: 5c0010d4d73d70b40a89061817fa8cd9aecc05c18198714962b7c2819e69224f
 Section: kernel
 Priority: optional
 Homepage: http://www.kernel.org/
@@ -36,7 +73,7 @@ Description: Linux kernel, version 4.4.213-rockchip64-gfd4492386-dirty
  files, version: 4.4.213-rockchip64-gfd4492386-dirty.
 
 Package: linux-u-boot-helm-v2a-legacy
-Version: 22.11.1-build-38
+Version: 22.11.1-build-43
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 1
@@ -44,16 +81,33 @@ Conflicts: armbian-u-boot, u-boot-sunxi
 Replaces: armbian-u-boot
 Provides: armbian-u-boot
 Filename: ./linux-u-boot-legacy-helm-v2a_22.11.1_arm64.deb
-Size: 899244
-MD5sum: 4f3793777a2610a513015180b11c2798
-SHA1: 4eebeed7d9fda32991bc03ae8bcb95c5c9e1e913
-SHA256: 7783b7547d5f737c5531b2d87d19d2b17cb902d4ef008e563de6e2e4f2e05a7d
+Size: 895620
+MD5sum: 7463cea02f6686b366a9501f0c658aa3
+SHA1: aa8366c6fc3f54a41875eea433fb4621b227d28a
+SHA256: 7bcd862393cbafbeb69f50b7af4b17f4d37f20765542aaff78f7880059314a78
 Section: kernel
 Priority: optional
-Description: Uboot loader 2022.07
+Description: Uboot loader 2017.09
+
+Package: linux-u-boot-helm-v2a-legacy
+Version: 22.11.2-build-48
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 1
+Conflicts: armbian-u-boot, u-boot-sunxi
+Replaces: armbian-u-boot
+Provides: armbian-u-boot
+Filename: ./linux-u-boot-legacy-helm-v2a_22.11.2_arm64.deb
+Size: 896016
+MD5sum: c565b4a2688b6b42c260496f7f253eba
+SHA1: 390ccf1d9533646e744821871d138543fa2aa633
+SHA256: b305bb46c60245f2376b3b4f5f2aa30e0ef4edfe5de0dcaa673018d31014915a
+Section: kernel
+Priority: optional
+Description: Uboot loader 2017.09
 
 Package: linux-u-boot-helm-v2b-legacy
-Version: 22.11.1-build-38
+Version: 22.11.1-build-43
 Architecture: arm64
 Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
 Installed-Size: 1
@@ -61,10 +115,27 @@ Conflicts: armbian-u-boot, u-boot-sunxi
 Replaces: armbian-u-boot
 Provides: armbian-u-boot
 Filename: ./linux-u-boot-legacy-helm-v2b_22.11.1_arm64.deb
-Size: 884404
-MD5sum: 36f14fe7f8b052c01b2586a94b323af8
-SHA1: 9fdb4686d2bc55e826f97082349cbb5edd5ba218
-SHA256: f312100510136466b6f1264c4be6e0dc6036c9decf676629d16f2ad04efa6a49
+Size: 884416
+MD5sum: ffcf1579d67d4f8b4977b5c0d1ff4a2a
+SHA1: 7a8e60b2adf138fb19e822733294c946dfcc7f84
+SHA256: 288aff98d84e23b6d3834d413e1f44a911d9a10c2283044ab69a4d9556cba95d
+Section: kernel
+Priority: optional
+Description: Uboot loader 2017.09
+
+Package: linux-u-boot-helm-v2b-legacy
+Version: 22.11.2-build-48
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 1
+Conflicts: armbian-u-boot, u-boot-sunxi
+Replaces: armbian-u-boot
+Provides: armbian-u-boot
+Filename: ./linux-u-boot-legacy-helm-v2b_22.11.2_arm64.deb
+Size: 885304
+MD5sum: 8de9d66cd3f6011bb4a80935dae7b39d
+SHA1: c3fbcee54f7f24fcb76cb4089e06cd27440d2577
+SHA256: ff1ca403ec95d8dd74eacd194667b1eb2e8063ef5a0b39a896e2c1d51b528400
 Section: kernel
 Priority: optional
 Description: Uboot loader 2017.09
